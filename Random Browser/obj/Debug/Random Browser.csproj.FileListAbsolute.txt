@@ -1,0 +1,25 @@
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\Random Browser.exe
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\Random Browser.exe.config
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\Random Browser.exe.manifest
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\Random Browser.application
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\FSharp.Core.dll
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\ScrapySharp.Core.dll
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\ScrapySharpAsync.dll
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\FSharp.Core.xml
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\melk\source\repos\Random Browser\Random Browser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.csprojResolveAssemblyReference.cache
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\MainWindow.g.cs
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\App.g.cs
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser_MarkupCompile.cache
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser_MarkupCompile.lref
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\MainWindow.baml
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.g.resources
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random_Browser.Properties.Resources.resources
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.csproj.GenerateResource.Cache
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.csproj.CoreCompileInputs.cache
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.exe.manifest
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.application
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.exe
+C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.pdb
