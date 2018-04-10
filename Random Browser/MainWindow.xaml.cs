@@ -31,7 +31,6 @@ namespace Random_Browser
             MessageBox.Show(e.ErrorException.Message);
         }
 
-
         private void BrowseButton_Click(object sender, RoutedEventArgs e)
         {
             RandomImage.Source = Screenshot.Fetch();
