@@ -23,3 +23,29 @@ C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browse
 C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.application
 C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.exe
 C:\Users\melk\source\repos\Random Browser\Random Browser\obj\Debug\Random Browser.pdb
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\Random Browser.exe.config
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\Random Browser.exe.manifest
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\Random Browser.application
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\Random Browser.exe
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\Random Browser.pdb
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\FSharp.Core.dll
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\HtmlAgilityPack.dll
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\ScrapySharp.Core.dll
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\ScrapySharpAsync.dll
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\FSharp.Core.xml
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\HtmlAgilityPack.pdb
+C:\GitHub\Random-Browser\Random Browser\bin\Debug\HtmlAgilityPack.xml
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.csprojResolveAssemblyReference.cache
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\MainWindow.g.cs
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\App.g.cs
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser_MarkupCompile.cache
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser_MarkupCompile.lref
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\MainWindow.baml
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.g.resources
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random_Browser.Properties.Resources.resources
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.csproj.GenerateResource.Cache
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.csproj.CoreCompileInputs.cache
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.exe.manifest
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.application
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.exe
+C:\GitHub\Random-Browser\Random Browser\obj\Debug\Random Browser.pdb

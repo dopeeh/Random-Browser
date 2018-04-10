@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Random Browser.exe" size="38808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Random Browser.exe" size="39832">
       <assemblyIdentity name="Random Browser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jcbj/9cYVgNTbb8o6tYmfjU8EWcGhnsVRVUq9NFmtNA=</dsig:DigestValue>
+        <dsig:DigestValue>A3vibqmtWh3/xM/4dV87n6dgdq5abQmwbDIlUV5CrtM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
